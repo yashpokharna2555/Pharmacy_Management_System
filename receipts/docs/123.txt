@@ -1,0 +1,4 @@
+Select Drug;10mg;2 tablet;3;;0
+Piriton;10mg;2 tablet;5;5;25
+Select Drug;20mg;2 tablets;12;;0
+Naproxen;k;2;2;250;500

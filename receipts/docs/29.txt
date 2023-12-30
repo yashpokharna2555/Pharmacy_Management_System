@@ -1,0 +1,2 @@
+Dual Cotexin;100;1X2;20;120;2400
+TOTAL;;;;;
